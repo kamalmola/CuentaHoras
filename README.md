@@ -1,7 +1,5 @@
 # CuentaHoras
 
----------------------------------------------------------------CUENTA HORAS----------------------------------------------------------------
-
     ------------------------------------------------------DESCRIPCIÓN DE PROGRAMA-------------------------------------------------------
     Se presenta un programa simple, con una finalidad sencilla, contar las horas que de estudio que realizamos. La interfaz será simple
     y registrará la actividad de nuestro usuario.
